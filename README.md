@@ -1,2 +1,1 @@
-# event.ecommerceberlin.com
-event.ecommerceberlin.com
+# next.js site
